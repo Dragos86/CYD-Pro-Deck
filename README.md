@@ -1,3 +1,5 @@
+<img width="1200" height="1600" alt="0-02-05-bcf034dbd6b516290fba18d040dd08b21560e9ce7f60338489b904f39f3ba38e_b60e075e9710f205" src="https://github.com/user-attachments/assets/c96b421c-9bfe-4d94-aca5-cd6cd93fc358" />
+
 # 🚁 CYD Pro-Deck: ESP32 FPV Drone Controller
 
 A high-performance, custom-built FPV dashboard and flight controller for generic Wi-Fi toy drones (like JJRC/Flow), built entirely on the ESP32 CYD (Cheap Yellow Display).
@@ -28,7 +30,7 @@ Install these via the Arduino Library Manager:
 4. Set your Arduino Board to **ESP32 Dev Module**.
 5. Upload the code to your CYD.
 6. Power on your drone, wait for its Wi-Fi network to appear, and tap **CONNECT** on the CYD dashboard.
-
+<img width="1009" height="966" alt="0-02-05-ab169e5b62034b01c146de2e073b3bfc490e1c718be6fbfff13235ea093b44c0_6c89b235b1ad1ae4" src="https://github.com/user-attachments/assets/31e6fea6-bd5e-464d-9b1d-6eb5320de848" />
 ## 🎮 Controls
 * **Fly Pad:** Standard Mode-2 virtual joysticks (Throttle/Yaw on left, Pitch/Roll on right).
 * **Calib:** Sends the gyroscope calibration sequence to fix drifting before takeoff.
